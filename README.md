@@ -1,2 +1,2 @@
-# PollingDemo
+# ReactPollingDemo-CustomHook
 Created with CodeSandbox
